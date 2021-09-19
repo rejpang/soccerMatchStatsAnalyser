@@ -7,4 +7,5 @@ public interface Constants {
     String SCORE = "SCORE";
     String TEAM_A = "A";
     String TEAM_B = "B";
+    String CSV_HEADER = "TimeStamp, Team, Possession, Shot, Score";
 }

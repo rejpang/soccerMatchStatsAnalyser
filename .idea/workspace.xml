@@ -2,40 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ef6e2a-9a0b-46be-9b76-988d05e3e582" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Income/Income.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Income/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultiThreadWithDB/MultiThreadWithDB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultiThreadWithDB/src/Serial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/abstractionPrinciple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/CalculateArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/CalculateTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/Computations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractionPrinciple/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../arraysMethods/arraysMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../arraysMethods/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../excelToSql/excelToSql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finals/finals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finals/src/Attributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finals/src/OutputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finals/src/SampleText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../groovytest/groovytest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../groovytest/src/Main.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soccerMatchStatsAnalyser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/controllers/SoccerGameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/StatData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/utils/SoccerGameUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/view/SoccerGameDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/view/csv/inputCsvFile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/main/utils/SoccerGameUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/controllers/SoccerGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/controllers/SoccerGameController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -83,7 +54,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../valuewebb-bj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -191,6 +162,7 @@
       <workItem from="1631674303966" duration="3741000" />
       <workItem from="1631816499923" duration="16323000" />
       <workItem from="1631899225934" duration="35313000" />
+      <workItem from="1632043280968" duration="1898000" />
     </task>
     <servers />
   </component>
@@ -226,22 +198,22 @@
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
     <state x="743" y="371" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1173@0.27.1920.1173" timestamp="1631905427033" />
-    <state width="1874" height="447" key="GridCell.Tab.0.bottom" timestamp="1632041954883">
+    <state width="1874" height="349" key="GridCell.Tab.0.bottom" timestamp="1632045283448">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
-    <state width="1874" height="447" key="GridCell.Tab.0.bottom/0.27.1920.1173@0.27.1920.1173" timestamp="1632041954883" />
-    <state width="1874" height="447" key="GridCell.Tab.0.center" timestamp="1632041954883">
+    <state width="1874" height="349" key="GridCell.Tab.0.bottom/0.27.1920.1173@0.27.1920.1173" timestamp="1632045283448" />
+    <state width="1874" height="349" key="GridCell.Tab.0.center" timestamp="1632045283447">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
-    <state width="1874" height="447" key="GridCell.Tab.0.center/0.27.1920.1173@0.27.1920.1173" timestamp="1632041954883" />
-    <state width="1874" height="447" key="GridCell.Tab.0.left" timestamp="1632041954883">
+    <state width="1874" height="349" key="GridCell.Tab.0.center/0.27.1920.1173@0.27.1920.1173" timestamp="1632045283447" />
+    <state width="1874" height="349" key="GridCell.Tab.0.left" timestamp="1632045283447">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
-    <state width="1874" height="447" key="GridCell.Tab.0.left/0.27.1920.1173@0.27.1920.1173" timestamp="1632041954883" />
-    <state width="1874" height="447" key="GridCell.Tab.0.right" timestamp="1632041954883">
+    <state width="1874" height="349" key="GridCell.Tab.0.left/0.27.1920.1173@0.27.1920.1173" timestamp="1632045283447" />
+    <state width="1874" height="349" key="GridCell.Tab.0.right" timestamp="1632045283447">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
-    <state width="1874" height="447" key="GridCell.Tab.0.right/0.27.1920.1173@0.27.1920.1173" timestamp="1632041954883" />
+    <state width="1874" height="349" key="GridCell.Tab.0.right/0.27.1920.1173@0.27.1920.1173" timestamp="1632045283447" />
     <state width="1874" height="343" key="GridCell.Tab.1.bottom" timestamp="1632039888072">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
@@ -330,17 +302,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/controllers/SoccerGameController.java</url>
-          <line>41</line>
+          <line>44</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/controllers/SoccerGameController.java</url>
-          <line>141</line>
+          <line>154</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/controllers/SoccerGameController.java</url>
-          <line>138</line>
+          <line>149</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
